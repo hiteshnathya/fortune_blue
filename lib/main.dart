@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fortune_blue/LoginScreen.dart';
+import 'package:fortune_blue/Screens/LoginScreen.dart';
 
 void main() {
   runApp(const MyApp());
